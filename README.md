@@ -1,4 +1,4 @@
-# css_background
+# Desafío css_background
 
 Crear un archivo index.html, en donde deberemos tener una estructura básica de html, en ella agregaremos un hero banner, el cual deberá tener:
 - Deberá contener una imagen que cubra toda la viewport
